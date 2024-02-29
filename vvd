@@ -4393,7 +4393,10 @@ https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/makayahkaumatijapg/VOD%20
 
 #EXTINF:-1 type="movie" group-title="VOD HINDI/TAMIL" tvg-logo="https://ibb.co/pr4xqRv", Singapore Saloon 2023
 https://6vod-adaptive.akamaized.net/exp=1709233200~acl=%2Ffe1c9df6-9da7-4c4f-9468-f58a221ba89d%2F%2A~hmac=2911b75ece6663ed6d4d7ddccfdcea999ffc3db1c4c6d331cc3b880acd16349f/fe1c9df6-9da7-4c4f-9468-f58a221ba89d/sep/video/15611ce1/playlist.m3u8?query_string_ranges=1
-  
+
+#EXTINF:-1 type="movie" group-title="VOD HINDI/TAMIL" tvg-logo="https://ibb.co/pr4xqRv", Singapore Saloon 2023
+https://6vod-adaptive.akamaized.net/exp=1709233200~acl=%2Ffe1c9df6-9da7-4c4f-9468-f58a221ba89d%2F%2A~hmac=2911b75ece6663ed6d4d7ddccfdcea999ffc3db1c4c6d331cc3b880acd16349f/fe1c9df6-9da7-4c4f-9468-f58a221ba89d/sep/video/15611ce1/playlist.m3u8?query_string_ranges=1
+
 #EXTINF:-1 type="movie" group-title="VOD HINDI/TAMIL" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc1NTUzMTUzMl5BMl5BanBnXkFtZTcwNTk1ODgzMQ@@._V1_.jpg",Duplicate
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/makayahkaumatijapg/VOD%20INDIAN/Duplicate.mkv
 
